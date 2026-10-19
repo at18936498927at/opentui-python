@@ -1,4 +1,4 @@
 import ctypes
 
 
-lib = ctypes.CDLL("../opentui.dll")
+lib = ctypes.CDLL("./opentui.dll")
